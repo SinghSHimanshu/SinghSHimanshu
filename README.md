@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @SinghSHimanshu
-- 🌱 I’m currently learning.
+- 👋 Hi, I am Himanshu
 
 <!---
 SinghSHimanshu/SinghSHimanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
